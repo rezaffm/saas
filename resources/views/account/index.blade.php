@@ -3,7 +3,7 @@
 @section('account.content')
     <div class="card">
         <div class="card-body">
-            Account overview
+            Account Overview
         </div>
     </div>
 @endsection
